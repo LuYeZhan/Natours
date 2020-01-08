@@ -606,10 +606,13 @@ body {
       background-color: rgba(0, 0, 0, 0.3); } }
   @media only screen and (max-width: 56.25em) {
     .popup__btn {
-      left: 31.5rem; } }
+      left: 26.5rem; } }
   @media only screen and (max-width: 37.5em) {
     .popup__btn {
-      left: 18.5rem; } }
+      left: 14.5rem; } }
+  @media only screen and (max-width: 24em) {
+    .popup__btn {
+      left: 7.5rem; } }
   .popup__content {
     position: absolute;
     top: 50%;
