@@ -21,12 +21,11 @@
     @include respond(tab-port) {
       left: 26.5rem;
     }
-
     @include respond(phone) {
       left: 14.5rem;
     }
     @include respond(iphone-X) {
-      left: 7.5rem;
+      left: 6.5rem;
     }
   }
 
