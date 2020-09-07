@@ -1,8 +1,5 @@
-bla bla bla bla
+This is a web page made with pure css and html, aimed to practice and improve html and css skills
 
-Why is this so awesome?
-
-Cuz.. BlaBLaBLaLBablablabla
 
 Installation
 
@@ -14,12 +11,7 @@ Devstack
 
 html, css (Saas)
 
-User Stories
 
-    bloblo
-    bloblo
-    bloblo
-    bloblo
 
 Client / Frontend
 Routes
